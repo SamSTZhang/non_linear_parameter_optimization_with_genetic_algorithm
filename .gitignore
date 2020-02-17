@@ -2,3 +2,4 @@
 /workspace.xml
 __pycache__
 .idea
+./plots/backup_plots
